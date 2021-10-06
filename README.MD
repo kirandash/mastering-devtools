@@ -21,6 +21,7 @@
 -  You can use Chrome DevTools as a full time IDE
 -  It can do a bunch of amazing things, such as:
     - Edit HTML and CSS
+- Lesson file: http://masteringdevtools.com/lessons/editing
 
 ### 2.1 Elements Styles
 - Chrome shows google **material ui palette** and also** page palette**
@@ -59,3 +60,10 @@
 - DOM also provides jQuery like selectors in console ex: `$(".nav")`
 
 ## 3 Debugging
+- Lession file: http://masteringdevtools.com/lessons/debugging
+### 3.1 Step through debugging
+- `Cmd + Shift + P` - To navigate through dev tool panels without mouse
+- `Cmd + P` - Fuzzy search in sources panel
+- Tools on right side panel: **Steppers, Watch, Call stack, Scope, Breakpoints**
+- Steppers:
+    - Pause, Step over next function call, Step into next function call, Step out of current function, Step
